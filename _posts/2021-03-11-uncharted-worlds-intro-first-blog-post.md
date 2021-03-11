@@ -1,5 +1,5 @@
 ---
-title: "uncharted-worlds-intro-first-blog-post"
+title: uncharted-worlds-intro-first-blog-post
 date: 2021-03-11
 ---
 Born too late to discover the world, born too early to discover space.
